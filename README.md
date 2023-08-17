@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the art of write code that works in the web. 
 
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestogona&theme=radical)
->![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ernestogona&theme=radical&count_private=true)
